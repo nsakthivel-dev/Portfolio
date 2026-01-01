@@ -1,9 +1,9 @@
 export const config = {
     developer: {
-        name: "Huzaif",
-        fullName: "Huzaif Ahmed",
-        title: "Full Stack Developer",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
+        name: "Sakthivel",
+        fullName: "Sakthivel N",
+        title: "Senior Web Developer",
+        description: "Senior web developer creating digital experiences that respect humans and scale with clarity. Accessibility is my north star."
     },
     social: {
         github: "huzaifahmedz",
@@ -12,7 +12,7 @@ export const config = {
     },
     about: {
         title: "About Me",
-        description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
+        description: "Senior web developer creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, TypeScript, and cutting-edge technologies."
     },
     experiences: [
         {
